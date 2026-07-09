@@ -225,8 +225,6 @@ Hotel_Booking_Cancellation_Prediction.ipynb
 
 GitHub: https://github.com/shobhityadav-ds
 
-LinkedIn: *(Add your LinkedIn profile here)*
-
 ---
 
 ## ⭐ If you found this project helpful, consider giving it a star.
