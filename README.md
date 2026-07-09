@@ -18,8 +18,6 @@ A complete Machine Learning project that predicts whether a hotel booking will b
 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Joblib-4CAF50?style=for-the-badge"/>
-
 </p>
 
 ---
