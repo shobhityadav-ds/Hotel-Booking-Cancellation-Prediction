@@ -116,21 +116,24 @@ Random Forest achieved the highest performance among the implemented models and 
 ## 📁 Project Structure
 
 ```
-Hotel-Booking-Cancellation-Prediction
+Hotel-Booking-Cancellation-Prediction/
 │
-├── data
-│   └── hotel_bookings.csv
+├── data/
+│   ├── hotel_bookings.csv
+│   └── README.md
 │
-├── images
+├── images/
 │   ├── booking_distribution.png
 │   ├── correlation_heatmap.png
 │   ├── feature_importance.png
 │   ├── model_comparison.png
 │   ├── roc_curve.png
-│   └── confusion_matrix_rf.png
+│   ├── confusion_matrix_rf.png
+│   └── README.md
 │
-├── notebook
-│   └── Hotel_Booking_Cancellation_Prediction.ipynb
+├── notebook/
+│   ├── Hotel_Booking_Cancellation_Prediction.ipynb
+│   └── README.md
 │
 ├── README.md
 ├── requirements.txt
