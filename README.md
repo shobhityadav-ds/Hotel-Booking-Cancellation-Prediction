@@ -123,12 +123,13 @@ Hotel-Booking-Cancellation-Prediction/
 │   └── README.md
 │
 ├── images/
-│   ├── booking_distribution.png
-│   ├── correlation_heatmap.png
-│   ├── feature_importance.png
-│   ├── model_comparison.png
-│   ├── roc_curve.png
-│   ├── confusion_matrix_rf.png
+│   ├── Correlation Heatmap.png
+│   ├── Decision Tree Confusion Matrix.png
+│   ├── KNN Confusion Matrix.png
+│   ├── Logistic Regression Confusion Matrix.png
+│   ├── ROC Curve Comparison.png
+│   ├── Random Forest Confusion Matrix.png
+│   ├── Top 10 Important Features.png
 │   └── README.md
 │
 ├── notebook/
