@@ -2,6 +2,27 @@
 
 A complete Machine Learning project that predicts whether a hotel booking will be cancelled based on customer and booking information.
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Joblib-4CAF50?style=for-the-badge"/>
+
+</p>
+
+---
 ---
 
 ## 📌 Project Overview
@@ -178,31 +199,7 @@ Hotel_Booking_Cancellation_Prediction.ipynb
 
 ---
 
-## 📷 Project Screenshots
 
-### Model Comparison
-
-![Model Comparison](images/model_comparison.png)
-
----
-
-### ROC Curve
-
-![ROC Curve](images/roc_curve.png)
-
----
-
-### Feature Importance
-
-![Feature Importance](images/feature_importance.png)
-
----
-
-### Random Forest Confusion Matrix
-
-![Confusion Matrix](images/confusion_matrix_rf.png)
-
----
 
 ## 💡 Business Insights
 
